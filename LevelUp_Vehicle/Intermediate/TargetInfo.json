@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LevelUp_Vehicle",
+			"Path": "C:\\Unreal\\MyProject\\LevelUp_UE_4.27\\LevelUp_Vehicle\\Source\\LevelUp_Vehicle.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LevelUp_VehicleEditor",
+			"Path": "C:\\Unreal\\MyProject\\LevelUp_UE_4.27\\LevelUp_Vehicle\\Source\\LevelUp_VehicleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal\\MyProject\\LevelUp_UE_4.27\\LevelUp_Vehicle\\Source\\LevelUp_Vehicle\\LevelUp_Vehicle.Build.cs",
+		"C:\\Unreal\\MyProject\\LevelUp_UE_4.27\\LevelUp_Vehicle\\Source\\LevelUp_Vehicle.Target.cs",
+		"C:\\Unreal\\MyProject\\LevelUp_UE_4.27\\LevelUp_Vehicle\\Source\\LevelUp_VehicleEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

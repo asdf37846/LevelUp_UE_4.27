@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LevelUp_Vehicle.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0A80137D-DEBB-4D95-AEF0-496DBB874E22}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LevelUp_Vehicle.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LevelUp_VehicleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{15C056C5-FDAA-49C3-B7A8-B01A2FF0EA6D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LevelUp_Vehicle">
+      <UniqueIdentifier>{260D767F-FDFD-4F61-90D7-831534728E24}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LevelUp_Vehicle\FirstVehicle.cpp">
+      <Filter>Source\LevelUp_Vehicle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LevelUp_Vehicle\FirstVehicle.h">
+      <Filter>Source\LevelUp_Vehicle</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\LevelUp_Vehicle\LevelUp_Vehicle.Build.cs">
+      <Filter>Source\LevelUp_Vehicle</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LevelUp_Vehicle\LevelUp_Vehicle.cpp">
+      <Filter>Source\LevelUp_Vehicle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LevelUp_Vehicle\LevelUp_Vehicle.h">
+      <Filter>Source\LevelUp_Vehicle</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LevelUp_Vehicle\LevelUp_VehicleGameModeBase.cpp">
+      <Filter>Source\LevelUp_Vehicle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LevelUp_Vehicle\LevelUp_VehicleGameModeBase.h">
+      <Filter>Source\LevelUp_Vehicle</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

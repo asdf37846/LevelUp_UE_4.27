@@ -1,0 +1,2 @@
+C:\Unreal\MyProject\LevelUp_UE_4.27\LevelUp_Vehicle\Intermediate\Build\Win64\UE4Editor\Development\LevelUp_Vehicle\Definitions.LevelUp_Vehicle.h
+C:\Unreal\MyProject\LevelUp_UE_4.27\LevelUp_Vehicle\Source\LevelUp_Vehicle\LevelUp_Vehicle.h
