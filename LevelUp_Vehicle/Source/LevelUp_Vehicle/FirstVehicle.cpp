@@ -8,6 +8,9 @@
 #include "Components/InputComponent.h"
 #include "WheeledVehicleMovementComponent4W.h"
 
+static const FName NAME_SteerInput("Steer");
+static const FName NAME_ThrottleInput("Throttle");
+
 AFirstVehicle::AFirstVehicle()
 {
 	UWheeledVehicleMovementComponent4W* Vehicle4W = CastChecked<UWheeledVehicleMovementComponent4W>(GetVehicleMovement());
@@ -37,4 +40,57 @@ AFirstVehicle::AFirstVehicle()
 	SpringArm->SetupAttachment(RootComponent);
 	SpringArm->TargetArmLength = 250.0f;
 	SpringArm->bUsePawnControlRotation = true;
+	 
+	// 카메라 설정
+	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("ChaseCamera"));
+	Camera->SetupAttachment(SpringArm, USpringArmComponent::SocketName);
+	Camera->FieldOfView = 90.f;
+}
+
+void AFirstVehicle::Tick(float DeltaTime)
+{
+	Super::Tick(DeltaTime);
+
+	AirControl(DeltaTime);
+}
+
+void AFirstVehicle::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
+{
+	Super::SetupPlayerInputComponent(PlayerInputComponent);
+
+	PlayerInputComponent->BindAxis(NAME_ThrottleInput, this, &AFirstVehicle::Throttle);
+	PlayerInputComponent->BindAxis(NAME_SteerInput, this, &AFirstVehicle::Steering);
+	PlayerInputComponent->BindAxis("LookUp", this, &AFirstVehicle::LookUp);
+	PlayerInputComponent->BindAxis("Turn", this, &AFirstVehicle::Turn);
+}
+
+void AFirstVehicle::Throttle(float Val)
+{
+	GetVehicleMovementComponent()->SetThrottleInput(Val);
+}
+
+void AFirstVehicle::Steering(float Val)
+{
+	GetVehicleMovementComponent()->SetSteeringInput(Val);
+}
+
+void AFirstVehicle::LookUp(float Val)
+{
+	if (Val != 0.f)
+	{
+		AddControllerPitchInput(Val);
+	}
+}
+
+void AFirstVehicle::Turn(float Val)
+{
+	if (Val != 0.f)
+	{
+		AddControllerYawInput(Val);
+	}
+}
+
+void AFirstVehicle::AirControl(float DeltaTime)
+{
+
 }

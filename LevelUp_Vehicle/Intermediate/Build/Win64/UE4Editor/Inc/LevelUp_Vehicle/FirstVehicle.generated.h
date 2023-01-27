@@ -58,7 +58,11 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AFirstVehicle)
 
 
-#define LevelUp_Vehicle_Source_LevelUp_Vehicle_FirstVehicle_h_15_PRIVATE_PROPERTY_OFFSET
+#define LevelUp_Vehicle_Source_LevelUp_Vehicle_FirstVehicle_h_15_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__SpringArm() { return STRUCT_OFFSET(AFirstVehicle, SpringArm); } \
+	FORCEINLINE static uint32 __PPO__Camera() { return STRUCT_OFFSET(AFirstVehicle, Camera); }
+
+
 #define LevelUp_Vehicle_Source_LevelUp_Vehicle_FirstVehicle_h_12_PROLOG
 #define LevelUp_Vehicle_Source_LevelUp_Vehicle_FirstVehicle_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
