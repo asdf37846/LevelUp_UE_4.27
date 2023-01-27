@@ -1015,3 +1015,432 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.27-12.19.26:730][401]LogSlate: Took 0.000518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
 [2023.01.27-12.19.27:379][492]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2023.01.27-12.19.27:382][492]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.27-12.27.49:889][687]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Unreal/MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Source/LevelUp_Vehicle/LevelUp_VehicleGameModeBase.h'
+[2023.01.27-12.27.49:889][687]LogVSAccessor: Warning: Couldn't open file 'C:/Unreal/MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Source/LevelUp_Vehicle/LevelUp_VehicleGameModeBase.cpp'.
+[2023.01.27-12.28.22:264][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2023.01.27-12.28.23:431][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2023.01.27-12.28.24:537][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2023.01.27-12.28.25:863][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2023.01.27-12.28.47:456][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.27-12.28.54:695][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2023.01.27-12.28.55:294][150]Cmd: DELETE
+[2023.01.27-12.28.55:294][150]Cmd: ACTOR DELETE
+[2023.01.27-12.28.55:307][150]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.27-12.28.55:313][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.01.27-12.28.55:314][150]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.01.27-12.28.55:911][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2023.01.27-12.28.56:075][256]Cmd: DELETE
+[2023.01.27-12.28.56:075][256]Cmd: ACTOR DELETE
+[2023.01.27-12.28.56:076][256]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.27-12.28.56:079][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.27-12.28.56:080][256]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2023.01.27-12.28.56:823][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2023.01.27-12.28.57:120][402]Cmd: DELETE
+[2023.01.27-12.28.57:121][402]Cmd: ACTOR DELETE
+[2023.01.27-12.28.57:121][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.27-12.28.57:125][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.27-12.28.57:126][402]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2023.01.27-12.28.57:433][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2023.01.27-12.28.57:590][465]Cmd: DELETE
+[2023.01.27-12.28.57:590][465]Cmd: ACTOR DELETE
+[2023.01.27-12.28.57:591][465]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.27-12.28.57:594][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.27-12.28.57:595][465]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2023.01.27-12.28.58:564][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.27-12.28.58:674][617]Cmd: DELETE
+[2023.01.27-12.28.58:674][617]Cmd: ACTOR DELETE
+[2023.01.27-12.28.58:674][617]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.27-12.28.58:678][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.27-12.28.58:678][617]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2023.01.27-12.28.59:093][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.27-12.29.04:439][430]LogSlate: Took 0.003884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.27-12.29.13:599][743]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.27-12.29.13:624][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.27-12.29.13:638][743]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/Minimal_Default29AFDBAE4AFD31229B2B6383A460D16E.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.01.27-12.29.13:685][743]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/Minimal_Default_BuiltData7E975F1A4709B78EE3EB9B8B2BD112E5.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2023.01.27-12.29.13:695][743]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.27-12.29.13:695][743]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.01.27-12.29.13:695][743]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.01.27-12.29.24:985][352]LogSlate: Took 0.006672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.27-12.29.27:670][739]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.01.27-12.29.29:970][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.27-12.29.53:287][374]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.27-12.29.53:338][374]LogSlate: Took 0.003586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.27-12.30.45:186][830]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/BP_PickUpTruck.BP_PickUpTruck
+[2023.01.27-12.30.45:711][830]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.01.27-12.30.46:354][830]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2023.01.27-12.30.46:916][830]LogRenderer: Reallocating scene render targets to support 1208x704 Format 10 NumSamples 1 (Frame:1).
+[2023.01.27-12.30.49:096][ 54]LogSlate: Window 'BP_PickUpTruck' being destroyed
+[2023.01.27-12.31.07:647][638]LogMetaData: Removing '/Game/Vehicle/BP_PickUpTruck.BP_PickUpTruck:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/BP_PickUpTruck.PackageMetaData'
+[2023.01.27-12.31.07:647][638]LogMetaData: Removing '/Game/Vehicle/BP_PickUpTruck.SKEL_BP_PickUpTruck_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/BP_PickUpTruck.PackageMetaData'
+[2023.01.27-12.31.07:647][638]LogMetaData: Removing '/Game/Vehicle/BP_PickUpTruck.SKEL_BP_PickUpTruck_C' ref from Metadata '/Game/StarterContent/BP_PickUpTruck.PackageMetaData'
+[2023.01.27-12.31.07:647][638]LogMetaData: Removing '/Game/Vehicle/BP_PickUpTruck.BP_PickUpTruck_C' ref from Metadata '/Game/StarterContent/BP_PickUpTruck.PackageMetaData'
+[2023.01.27-12.31.07:647][638]LogMetaData: Removing '/Game/Vehicle/BP_PickUpTruck.BP_PickUpTruck:EventGraph.K2Node_Event_0' ref from Metadata '/Game/StarterContent/BP_PickUpTruck.PackageMetaData'
+[2023.01.27-12.31.07:647][638]LogMetaData: Removing '/Game/Vehicle/BP_PickUpTruck.BP_PickUpTruck:EventGraph.K2Node_Event_1' ref from Metadata '/Game/StarterContent/BP_PickUpTruck.PackageMetaData'
+[2023.01.27-12.31.07:647][638]LogMetaData: Removing '/Game/Vehicle/BP_PickUpTruck.BP_PickUpTruck:EventGraph.K2Node_Event_2' ref from Metadata '/Game/StarterContent/BP_PickUpTruck.PackageMetaData'
+[2023.01.27-12.31.07:666][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/BP_PickUpTruck" FILE="../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTruck.uasset" SILENT=true
+[2023.01.27-12.31.07:669][638]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/BP_PickUpTruck1653BD2D401A19EB473929A7882FFC00.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTruck.uasset'
+[2023.01.27-12.31.07:731][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.01.27-12.31.07:755][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.01.27-12.31.07:766][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.27-12.31.07:795][638]AssetCheck: New page: Asset Save: BP_PickUpTruck
+[2023.01.27-12.31.07:795][638]LogContentValidation: Display: Validating Blueprint /Game/Vehicle/BP_PickUpTruck.BP_PickUpTruck
+[2023.01.27-12.32.00:469][995]LogStaticMesh: Building static mesh SM_Hatchback...
+[2023.01.27-12.32.09:110][995]LogStaticMesh: Built static mesh [8.64s] /Game/VehicleVarietyPack/Meshes/SM_Hatchback.SM_Hatchback
+[2023.01.27-12.32.09:170][995]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/VehicleVarietyPack/Meshes/SM_Hatchback.SM_Hatchback
+[2023.01.27-12.32.09:198][995]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.01.27-12.32.09:269][995]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.01.27-12.32.10:268][996]LogRenderer: Reallocating scene render targets to support 1432x912 Format 10 NumSamples 1 (Frame:1).
+[2023.01.27-12.32.13:441][420]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-12.32.13:441][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-12.32.19:899][587]LogTexture: Display: Building textures: TX_Pickup_Interior_OPC (BGRA8, 4096X4096)
+[2023.01.27-12.32.19:899][587]LogTexture: Display: Building textures: TX_Pickup_ORM_2 (OODLE_AutoDXT, 4096X4096)
+[2023.01.27-12.32.19:899][587]LogTexture: Display: Building textures: TX_Pickup_Interior_Diffuse (OODLE_AutoDXT, 4096X4096)
+[2023.01.27-12.32.19:899][587]LogTexture: Display: Building textures: TX_Pickup_Interior_ORM (OODLE_AutoDXT, 4096X4096)
+[2023.01.27-12.32.19:899][587]LogTexture: Display: Building textures: TX_Pickup_Diffuse (OODLE_AutoDXT, 4096X4096)
+[2023.01.27-12.32.19:899][587]LogTexture: Display: Building textures: TX_Pickup_ORM_1 (OODLE_AutoDXT, 4096X4096)
+[2023.01.27-12.32.19:899][587]LogTexture: Display: Building textures: TX_Pickup_Diffuse_1 (OODLE_AutoDXT, 4096X4096)
+[2023.01.27-12.32.19:899][587]LogTexture: Display: Building textures: TX_Pickup_Normal_1 (OODLE_BC5, 4096X4096)
+[2023.01.27-12.32.19:899][587]LogTexture: Display: Building textures: TX_Pickup_Normal (OODLE_BC5, 4096X4096)
+[2023.01.27-12.32.19:899][587]LogTexture: Display: Building textures: TX_Pickup_Interior_Normal (OODLE_BC5, 4096X4096)
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTexture: Display: Building textures: TX_Pickup_EMM (OODLE_AutoDXT, 4096X4096)
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.27-12.32.19:899][587]LogMaterial: Display: Missing cached shadermap for M_Pickup_Interior in PCD3D_SM5, Default, SM5 (DDC key hash: 40BAF90808E3F50E3967A6AB5453E9AED38E256C), compiling. 
+[2023.01.27-12.32.20:062][587]LogShaderCompilers: Display: Submitted 87 shader compile jobs with 'Low' priority
+[2023.01.27-12.32.20:065][587]LogMaterial: Display: Missing cached shadermap for M_Pickup_Under in PCD3D_SM5, Default, SM5 (DDC key hash: 67CEFCD42C18224CF3E7945FC94DA0EE7EF43C92), compiling. 
+[2023.01.27-12.32.20:088][587]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 87
+[2023.01.27-12.32.20:088][587]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 77
+[2023.01.27-12.32.20:088][587]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 67
+[2023.01.27-12.32.20:088][587]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2023.01.27-12.32.20:088][587]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2023.01.27-12.32.20:088][587]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 37
+[2023.01.27-12.32.20:088][587]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2023.01.27-12.32.20:088][587]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2023.01.27-12.32.20:088][587]LogShaderCompilers: Display: Started 80 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.20:088][587]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2023.01.27-12.32.20:340][587]LogStaticMesh: Building static mesh SM_Pickup...
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 48
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 41
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.01.27-12.32.25:255][587]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.33:063][587]LogStaticMesh: Built static mesh [12.72s] /Game/VehicleVarietyPack/Meshes/SM_Pickup.SM_Pickup
+[2023.01.27-12.32.33:087][587]LogMaterial: Display: Missing cached shadermap for M_Pickup_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 400743F2A85DE316C47AC73CA5B2E3CB5006FB0A), compiling. 
+[2023.01.27-12.32.33:109][587]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2023.01.27-12.32.33:118][587]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 41
+[2023.01.27-12.32.33:118][587]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2023.01.27-12.32.33:118][587]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2023.01.27-12.32.33:118][587]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2023.01.27-12.32.33:118][587]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2023.01.27-12.32.33:118][587]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2023.01.27-12.32.33:118][587]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2023.01.27-12.32.33:118][587]LogShaderCompilers: Display: Started 41 'Local' shader compile jobs with 'Low' priority
+[2023.01.27-12.32.33:118][587]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/VehicleVarietyPack/Meshes/SM_Pickup.SM_Pickup
+[2023.01.27-12.32.33:138][587]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.27-12.32.33:138][587]LogShaderCompilers: Display: Total job queries 169, among them cache hits 0 (0.00%)
+[2023.01.27-12.32.33:138][587]LogShaderCompilers: Display: Tracking 128 distinct input hashes that result in 102 distinct outputs (79.69%)
+[2023.01.27-12.32.33:138][587]LogShaderCompilers: Display: RAM used: 0.52 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2023.01.27-12.32.33:138][587]LogShaderCompilers: Display: ================================================
+[2023.01.27-12.32.34:228][624]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.01.27-12.32.40:075][294]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-12.32.40:075][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-12.32.48:339][380]LogSkeletalMesh: Building Skeletal Mesh SK_Pickup...
+[2023.01.27-12.32.48:424][380]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/VehicleVarietyPack/Skeletons/SK_Pickup.SK_Pickup
+[2023.01.27-12.33.29:761][156]BlueprintLog: New page: Compile BP_PickUpTruck
+[2023.01.27-12.33.29:825][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.01.27-12.33.30:269][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/BP_PickUpTruck" FILE="../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTruck.uasset" SILENT=true
+[2023.01.27-12.33.30:278][212]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/BP_PickUpTruck9ED99ADB4481E26D1568158E7379202E.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTruck.uasset'
+[2023.01.27-12.33.30:288][212]AssetCheck: New page: Asset Save: BP_PickUpTruck
+[2023.01.27-12.33.30:288][212]LogContentValidation: Display: Validating Blueprint /Game/Vehicle/BP_PickUpTruck.BP_PickUpTruck
+[2023.01.27-12.34.37:862][879]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.27-12.34.37:864][879]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.27-12.34.51:074][879]LogSlate: Window 'Pick Data Asset Class' being destroyed
+[2023.01.27-12.34.51:081][879]LogContentBrowser: Deferred new asset file creation: NewDataAsset
+[2023.01.27-12.34.51:090][879]LogContentBrowser: Creating deferred item: NewDataAsset
+[2023.01.27-12.35.15:682][419]LogContentBrowser: Attempting asset rename: NewDataAsset -> DA_PickUpTireConfig
+[2023.01.27-12.35.15:683][419]LogContentBrowser: End creating deferred item NewDataAsset
+[2023.01.27-12.35.17:640][698]LogAssetEditorSubsystem: Opening Asset editor for TireConfig /Game/Vehicle/DA_PickUpTireConfig.DA_PickUpTireConfig
+[2023.01.27-12.35.29:365][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.01.27-12.35.29:377][375]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/Minimal_Default6DD9CDA44DB6B9863EA4A299B0F85880.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.01.27-12.35.29:410][375]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/Minimal_Default_BuiltDataD0C3C431466946FEDD5C6DA16A236C9A.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2023.01.27-12.35.29:421][375]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.27-12.35.29:421][375]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.01.27-12.35.29:421][375]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.01.27-12.35.45:168][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/DA_PickUpTireConfig" FILE="../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/DA_PickUpTireConfig.uasset" SILENT=true
+[2023.01.27-12.35.45:168][637]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/DA_PickUpTireConfigDBCE2F75472362C0DD583CA4BAEC1887.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/DA_PickUpTireConfig.uasset'
+[2023.01.27-12.35.45:176][637]AssetCheck: New page: Asset Save: DA_PickUpTireConfig
+[2023.01.27-12.35.45:176][637]LogContentValidation: Display: Validating TireConfig /Game/Vehicle/DA_PickUpTireConfig.DA_PickUpTireConfig
+[2023.01.27-12.36.19:634][972]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.27-12.36.19:640][972]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.27-12.36.19:650][972]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.27-12.36.48:571][136]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PickUpTire_Front
+[2023.01.27-12.36.48:574][136]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.27-12.36.51:257][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/BP_PickUpTire_Front" FILE="../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTire_Front.uasset" SILENT=true
+[2023.01.27-12.36.51:258][516]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/BP_PickUpTire_FrontEB17E0A34531CBF27D6E0CB23529B86C.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTire_Front.uasset'
+[2023.01.27-12.36.51:269][516]AssetCheck: New page: Asset Save: BP_PickUpTire_Front
+[2023.01.27-12.36.51:269][516]LogContentValidation: Display: Validating Blueprint /Game/Vehicle/BP_PickUpTire_Front.BP_PickUpTire_Front
+[2023.01.27-12.36.52:184][644]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Vehicle/BP_PickUpTire_Front.BP_PickUpTire_Front
+[2023.01.27-12.37.04:649][369]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.27-12.37.04:651][369]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.27-12.37.11:321][369]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.27-12.37.11:327][369]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.27-12.37.11:338][369]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.27-12.37.35:033][781]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PickUpTire_Rear
+[2023.01.27-12.37.35:037][781]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.27-12.37.51:959][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/BP_PickUpTire_Rear" FILE="../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTire_Rear.uasset" SILENT=true
+[2023.01.27-12.37.51:960][209]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/BP_PickUpTire_Rear9E8944AF4AF7F92E8747B0AE1AD1F05F.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTire_Rear.uasset'
+[2023.01.27-12.37.51:969][209]AssetCheck: New page: Asset Save: BP_PickUpTire_Rear
+[2023.01.27-12.37.51:969][209]LogContentValidation: Display: Validating Blueprint /Game/Vehicle/BP_PickUpTire_Rear.BP_PickUpTire_Rear
+[2023.01.27-12.38.02:600][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.01.27-12.39.09:241][294]BlueprintLog: New page: Compile BP_PickUpTire_Front
+[2023.01.27-12.39.09:263][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.01.27-12.39.09:680][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/BP_PickUpTire_Front" FILE="../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTire_Front.uasset" SILENT=true
+[2023.01.27-12.39.09:681][349]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/BP_PickUpTire_FrontAA4E85B5484A53A0AC185BBCB079867C.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTire_Front.uasset'
+[2023.01.27-12.39.09:689][349]AssetCheck: New page: Asset Save: BP_PickUpTire_Front
+[2023.01.27-12.39.09:689][349]LogContentValidation: Display: Validating Blueprint /Game/Vehicle/BP_PickUpTire_Front.BP_PickUpTire_Front
+[2023.01.27-12.39.11:818][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Vehicle/BP_PickUpTire_Rear.BP_PickUpTire_Rear
+[2023.01.27-12.39.57:710][199]BlueprintLog: New page: Compile BP_PickUpTire_Rear
+[2023.01.27-12.39.57:733][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.01.27-12.40.00:286][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/BP_PickUpTire_Rear" FILE="../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTire_Rear.uasset" SILENT=true
+[2023.01.27-12.40.00:287][552]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/BP_PickUpTire_RearE7F063DC41232BE31C4D1DB35AA233C7.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTire_Rear.uasset'
+[2023.01.27-12.40.00:296][552]AssetCheck: New page: Asset Save: BP_PickUpTire_Rear
+[2023.01.27-12.40.00:296][552]LogContentValidation: Display: Validating Blueprint /Game/Vehicle/BP_PickUpTire_Rear.BP_PickUpTire_Rear
+[2023.01.27-12.40.22:900][763]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.27-12.40.22:917][763]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.27-12.42.28:477][732]BlueprintLog: New page: Compile BP_PickUpTruck
+[2023.01.27-12.42.28:518][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.01.27-12.42.28:889][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/BP_PickUpTruck" FILE="../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTruck.uasset" SILENT=true
+[2023.01.27-12.42.28:895][780]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/BP_PickUpTruck696CD48B48C4D7663F3AA98E5381B440.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTruck.uasset'
+[2023.01.27-12.42.28:905][780]AssetCheck: New page: Asset Save: BP_PickUpTruck
+[2023.01.27-12.42.28:905][780]LogContentValidation: Display: Validating Blueprint /Game/Vehicle/BP_PickUpTruck.BP_PickUpTruck
+[2023.01.27-12.43.46:336][836]BlueprintLog: New page: Compile BP_PickUpTruck
+[2023.01.27-12.43.46:376][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.01.27-12.43.46:773][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/BP_PickUpTruck" FILE="../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTruck.uasset" SILENT=true
+[2023.01.27-12.43.46:779][889]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/BP_PickUpTruckCA80B68F419BC710FCE29F87232B565E.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTruck.uasset'
+[2023.01.27-12.43.46:788][889]AssetCheck: New page: Asset Save: BP_PickUpTruck
+[2023.01.27-12.43.46:789][889]LogContentValidation: Display: Validating Blueprint /Game/Vehicle/BP_PickUpTruck.BP_PickUpTruck
+[2023.01.27-12.44.20:746][720]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.27-12.44.20:755][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.27-12.44.20:756][720]PIE: New page: PIE session: Minimal_Default (2023. 1. 28. 오전 6:44:20)
+[2023.01.27-12.44.20:759][720]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.01.27-12.44.20:761][720]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.27-12.44.20:761][720]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.01.27-12.44.20:768][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006540s)
+[2023.01.27-12.44.20:769][720]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.01.27-12.44.20:769][720]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2023.01.27-12.44.20:769][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008152s)
+[2023.01.27-12.44.20:792][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.01.27-12.44.20:794][720]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.27-12.44.20:794][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.27-12.44.20:794][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.27-12.44.20:794][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.27-12.44.20:794][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.27-12.44.20:794][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.27-12.44.20:794][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.27-12.44.20:794][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.27-12.44.20:794][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.27-12.44.20:794][720]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.27-12.44.20:794][720]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.27-12.44.20:794][720]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.27-12.44.20:795][720]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.27-12.44.20:797][720]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.27-12.44.20:797][720]LogAudioMixer: Display: 1: FrontRight
+[2023.01.27-12.44.20:805][720]LogAudioMixer: Display: Using Audio Device 스피커(USBZH5K-ENC)
+[2023.01.27-12.44.20:805][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.27-12.44.20:805][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.27-12.44.20:806][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.27-12.44.20:806][720]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.27-12.44.20:806][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.27-12.44.20:806][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.27-12.44.20:807][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.27-12.44.20:807][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.27-12.44.20:807][720]LogInit: FAudioDevice initialized.
+[2023.01.27-12.44.20:807][720]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2023.01.27-12.44.20:821][720]LogLoad: Game class is 'GameModeBase'
+[2023.01.27-12.44.20:827][720]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.01.27-21.44.20
+[2023.01.27-12.44.20:829][720]LogWorld: Bringing up level for play took: 0.004471
+[2023.01.27-12.44.20:829][720]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.01.27-12.44.20:839][720]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.01.27-12.44.20:842][720]PIE: Server logged in
+[2023.01.27-12.44.20:843][720]PIE: Play in editor total start time 0.092 seconds.
+[2023.01.27-12.44.42:784][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-12.44.42:784][841]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.01.27-12.44.42:784][841]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-12.44.42:784][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-12.44.42:796][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.27-12.44.42:806][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-12.44.42:832][841]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.27-12.44.42:832][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.27-12.44.42:833][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.27-12.44.42:835][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-12.44.42:860][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.01.27-12.44.43:004][856]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.01.27-12.45.03:055][694]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.27-12.45.03:058][694]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.27-12.45.03:075][694]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2023.01.27-12.45.17:274][694]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2023.01.27-12.45.28:498][694]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.01.27-12.45.28:505][694]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.01.27-12.45.28:515][694]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.01.27-12.45.48:697][600]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> AnimBP_PickUp
+[2023.01.27-12.45.48:702][600]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.01.27-12.45.54:240][380]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Vehicle/AnimBP_PickUp.AnimBP_PickUp
+[2023.01.27-12.45.54:254][380]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.01.27-12.45.54:263][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.27-12.45.54:267][380]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2023.01.27-12.45.57:608][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/AnimBP_PickUp" FILE="../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/AnimBP_PickUp.uasset" SILENT=true
+[2023.01.27-12.45.57:614][662]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/AnimBP_PickUpF5BF97AD49CA15534F6D7FBDFED5E108.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/AnimBP_PickUp.uasset'
+[2023.01.27-12.45.57:626][662]AssetCheck: New page: Asset Save: AnimBP_PickUp
+[2023.01.27-12.45.57:626][662]LogContentValidation: Display: Validating AnimBlueprint /Game/Vehicle/AnimBP_PickUp.AnimBP_PickUp
+[2023.01.27-12.45.58:420][776]BlueprintLog: New page: Compile AnimBP_PickUp
+[2023.01.27-12.45.58:488][776]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.01.27-12.46.02:392][281]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2023.01.27-12.46.03:704][281]LogSlate: Window 'Save Content' being destroyed
+[2023.01.27-12.46.03:751][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.01.27-12.46.03:760][281]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/Minimal_Default15D13E84431913E677E0CFAE19F82363.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.01.27-12.46.03:767][281]LogFileHelpers: Saving map 'Minimal_Default' took 0.044
+[2023.01.27-12.46.03:780][281]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.01.27-12.46.03:780][281]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.01.27-12.46.07:272][762]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-12.46.07:272][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-12.46.07:782][825]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-12.46.07:782][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-12.47.14:175][279]BlueprintLog: New page: Compile AnimBP_PickUp
+[2023.01.27-12.47.14:241][279]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2023.01.27-12.47.14:613][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/AnimBP_PickUp" FILE="../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/AnimBP_PickUp.uasset" SILENT=true
+[2023.01.27-12.47.14:620][326]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/AnimBP_PickUpEBB9BB0843FEC73F0EB3CE8E14CBFDD1.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/AnimBP_PickUp.uasset'
+[2023.01.27-12.47.14:636][326]AssetCheck: New page: Asset Save: AnimBP_PickUp
+[2023.01.27-12.47.14:636][326]LogContentValidation: Display: Validating AnimBlueprint /Game/Vehicle/AnimBP_PickUp.AnimBP_PickUp
+[2023.01.27-12.47.34:830][186]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.27-12.47.34:846][186]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.27-12.47.43:295][390]BlueprintLog: New page: Compile BP_PickUpTruck
+[2023.01.27-12.47.43:387][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2023.01.27-12.47.43:796][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/BP_PickUpTruck" FILE="../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTruck.uasset" SILENT=true
+[2023.01.27-12.47.43:802][442]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/BP_PickUpTruck674B5399482F72CE68A45FBC5D5FC6BD.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/Vehicle/BP_PickUpTruck.uasset'
+[2023.01.27-12.47.43:812][442]AssetCheck: New page: Asset Save: BP_PickUpTruck
+[2023.01.27-12.47.43:812][442]LogContentValidation: Display: Validating Blueprint /Game/Vehicle/BP_PickUpTruck.BP_PickUpTruck
+[2023.01.27-12.48.01:660][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.01.27-12.48.02:655][977]LogSlate: Window 'Save Content' being destroyed
+[2023.01.27-12.48.02:697][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.01.27-12.48.02:704][977]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/Minimal_Default0AD5D7C143DCDD0050B091BBC4EB8A91.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.01.27-12.48.02:712][977]LogFileHelpers: Saving map 'Minimal_Default' took 0.039
+[2023.01.27-12.48.02:722][977]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.01.27-12.48.02:722][977]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.01.27-12.48.03:515][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.27-12.48.03:521][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.27-12.48.03:521][ 90]PIE: New page: PIE session: Minimal_Default (2023. 1. 28. 오전 6:48:03)
+[2023.01.27-12.48.03:550][ 90]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.01.27-12.48.03:553][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002455s)
+[2023.01.27-12.48.03:554][ 90]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.01.27-12.48.03:554][ 90]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2023.01.27-12.48.03:554][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003412s)
+[2023.01.27-12.48.03:577][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.01.27-12.48.03:578][ 90]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.27-12.48.03:578][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.27-12.48.03:578][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.27-12.48.03:578][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.27-12.48.03:578][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.27-12.48.03:578][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.27-12.48.03:578][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.27-12.48.03:578][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.27-12.48.03:578][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.27-12.48.03:578][ 90]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.27-12.48.03:578][ 90]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.27-12.48.03:578][ 90]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.27-12.48.03:578][ 90]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.27-12.48.03:581][ 90]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.27-12.48.03:581][ 90]LogAudioMixer: Display: 1: FrontRight
+[2023.01.27-12.48.03:587][ 90]LogAudioMixer: Display: Using Audio Device 스피커(USBZH5K-ENC)
+[2023.01.27-12.48.03:587][ 90]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.27-12.48.03:588][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.27-12.48.03:588][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.27-12.48.03:588][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.27-12.48.03:588][ 90]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.27-12.48.03:588][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.27-12.48.03:589][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.27-12.48.03:589][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.27-12.48.03:589][ 90]LogInit: FAudioDevice initialized.
+[2023.01.27-12.48.03:589][ 90]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2023.01.27-12.48.03:596][ 90]LogLoad: Game class is 'GameModeBase'
+[2023.01.27-12.48.03:597][ 90]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.01.27-21.48.03
+[2023.01.27-12.48.03:597][ 90]LogWorld: Bringing up level for play took: 0.000841
+[2023.01.27-12.48.03:598][ 90]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.01.27-12.48.03:599][ 90]PIE: Server logged in
+[2023.01.27-12.48.03:599][ 90]PIE: Play in editor total start time 0.079 seconds.
+[2023.01.27-12.48.33:901][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-12.48.33:901][446]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.01.27-12.48.33:901][446]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-12.48.33:901][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-12.48.33:906][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.27-12.48.33:917][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-12.48.33:937][446]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.27-12.48.33:937][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.27-12.48.33:938][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.27-12.48.33:940][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-12.48.33:944][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.01.27-12.48.34:088][461]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.01.27-12.48.43:715][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.01.27-12.48.43:726][808]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/Minimal_DefaultFD1361AC462F77E5B8C654AAA4C4558F.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.01.27-12.48.43:760][808]LogSavePackage: Moving '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Saved/Minimal_Default_BuiltData37F029F54002F7AB21F0D49383827336.tmp' to '../../../../../MyProject/LevelUp_UE_4.27/LevelUp_Vehicle/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2023.01.27-12.48.43:773][808]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.27-12.48.43:773][808]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.01.27-12.48.43:773][808]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
